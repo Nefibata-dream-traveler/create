@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Copy of GrainTwin - STM32 Digital Twin",
+  "description": "A 3D Digital Twin dashboard for the STM32H750 Grain Monitoring System. Features real-time environmental visualization, pest detection tracking, and AI-powered grain safety analysis.",
+  "requestFramePermissions": []
+}
