@@ -1,0 +1,7 @@
+{
+  "name": "SmartLab - 实验室智能管理系统",
+  "description": "一个全面的实验室资源与业务流程管理系统，包含设备预约、库存追踪、电子实验日志及环境实时监控。",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
